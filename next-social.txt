@@ -1,0 +1,9 @@
+NEXT SOCIAL APP
+
+AUTHENTICATION 
+clerk.com
+
+
+https://dashboard.clerk.com/apps/app_2kyEcyO1Jm3y8lPnzchyntOGMwx/instances/ins_2kyEd8aMqNCSqzKmdYqbTg0G0rJ
+
+npm install @clerk/nextjs
